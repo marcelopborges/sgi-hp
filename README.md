@@ -1,2 +1,2 @@
-# sgi_hp
+# SGI - HP
 Sistema de dashboards da HP Transportes
